@@ -4,4 +4,4 @@
 
 Follow this link to view TensorBorad.dev : https://tensorboard.dev/experiment/GDsELcjySjOgzDQETeDCPA/#scalars
 
-![alt text](http://url/to/img.png)
+![This](https://github.com/amandeep25/Pix2Pix/blob/master/image.jpg)
